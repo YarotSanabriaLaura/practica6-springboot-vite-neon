@@ -1,4 +1,4 @@
----
+
 
 ## 🔍 Sección de Investigación
 
@@ -19,4 +19,3 @@ Porque no necesita que el usuario administre un servidor. Neon maneja la infraes
 CORS permite que el frontend (en otro puerto o dominio) pueda comunicarse con el backend.  
 Lo configuramos para que el Vite (5173) pudiera hacer peticiones al backend en 8080 sin ser bloqueado por el navegador.  
 
----
