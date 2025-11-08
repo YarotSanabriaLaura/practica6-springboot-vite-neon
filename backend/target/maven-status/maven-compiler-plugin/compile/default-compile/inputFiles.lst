@@ -1,0 +1,16 @@
+C:\Users\Yarot\Downloads\lab-clients\backend\src\main\java\com\example\labclients\lab_clients\application\dto\ClientDTO.java
+C:\Users\Yarot\Downloads\lab-clients\backend\src\main\java\com\example\labclients\lab_clients\application\mapper\ClientMapper.java
+C:\Users\Yarot\Downloads\lab-clients\backend\src\main\java\com\example\labclients\lab_clients\application\service\ClientService.java
+C:\Users\Yarot\Downloads\lab-clients\backend\src\main\java\com\example\labclients\lab_clients\application\service\ProductService.java
+C:\Users\Yarot\Downloads\lab-clients\backend\src\main\java\com\example\labclients\lab_clients\BackendApplication.java
+C:\Users\Yarot\Downloads\lab-clients\backend\src\main\java\com\example\labclients\lab_clients\domain\exception\ClientNotFoundException.java
+C:\Users\Yarot\Downloads\lab-clients\backend\src\main\java\com\example\labclients\lab_clients\domain\model\Client.java
+C:\Users\Yarot\Downloads\lab-clients\backend\src\main\java\com\example\labclients\lab_clients\domain\model\Product.java
+C:\Users\Yarot\Downloads\lab-clients\backend\src\main\java\com\example\labclients\lab_clients\domain\repository\ClientRepository.java
+C:\Users\Yarot\Downloads\lab-clients\backend\src\main\java\com\example\labclients\lab_clients\domain\repository\ProductRepository.java
+C:\Users\Yarot\Downloads\lab-clients\backend\src\main\java\com\example\labclients\lab_clients\infrastructure\config\BeanConfig.java
+C:\Users\Yarot\Downloads\lab-clients\backend\src\main\java\com\example\labclients\lab_clients\infrastructure\persistence\adapter\ClientRepositoryAdapter.java
+C:\Users\Yarot\Downloads\lab-clients\backend\src\main\java\com\example\labclients\lab_clients\infrastructure\persistence\entity\ClientEntity.java
+C:\Users\Yarot\Downloads\lab-clients\backend\src\main\java\com\example\labclients\lab_clients\infrastructure\persistence\jpa\SpringDataClientRepository.java
+C:\Users\Yarot\Downloads\lab-clients\backend\src\main\java\com\example\labclients\lab_clients\infrastructure\rest\ClientController.java
+C:\Users\Yarot\Downloads\lab-clients\backend\src\main\java\com\example\labclients\lab_clients\infrastructure\rest\ProductController.java

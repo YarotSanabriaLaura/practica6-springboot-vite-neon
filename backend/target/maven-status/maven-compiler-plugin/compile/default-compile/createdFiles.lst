@@ -1,0 +1,16 @@
+com\example\labclients\lab_clients\application\dto\ClientDTO.class
+com\example\labclients\controllers\ProductController.class
+com\example\labclients\lab_clients\application\mapper\ClientMapper.class
+com\example\labclients\lab_clients\infrastructure\persistence\entity\ClientEntity.class
+com\example\labclients\repository\ProductRepository.class
+com\example\labclients\lab_clients\application\service\ClientService.class
+com\example\labclients\lab_clients\infrastructure\config\BeanConfig.class
+com\example\labclients\services\ProductService.class
+com\example\labclients\lab_clients\domain\model\Client.class
+com\example\labclients\lab_clients\infrastructure\rest\ClientController.class
+com\example\labclients\lab_clients\BackendApplication.class
+com\example\labclients\lab_clients\infrastructure\persistence\adapter\ClientRepositoryAdapter.class
+com\example\labclients\lab_clients\infrastructure\persistence\jpa\SpringDataClientRepository.class
+com\example\labclients\lab_clients\domain\repository\ClientRepository.class
+com\example\labclients\lab_clients\domain\exception\ClientNotFoundException.class
+com\example\labclients\models\Product.class
